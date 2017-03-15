@@ -1,6 +1,6 @@
 import pandas as pd
 import os
-os.chdir('path')
+os.chdir('insert your path here')
 files = os.listdir(os.getcwd())
 
 for file in files:
